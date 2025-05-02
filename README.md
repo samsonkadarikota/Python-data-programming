@@ -4,15 +4,15 @@ Welcome to my learning journey through the Full Stack Data Science Bootcamp with
 
 **Topics Covered**
 
-Python for Data Science
-SQL for Data Analysis
-Statistics & Probability
-Machine Learning
-Deep Learning
-Generative AI
-Agentic AI
-Power BI & Dashboards
-Capstone Projects
+->Python for Data Science
+->SQL for Data Analysis
+->Statistics & Probability
+->Machine Learning
+->Deep Learning
+->Generative AI
+->Agentic AI
+->Power BI & Dashboards
+->Capstone Projects
 
 I'm continuously updating this repo as I progress through the course—stay tuned! If you find this repository useful, please consider giving it a star ⭐️. It motivates me to keep learning and sharing more!
 
